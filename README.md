@@ -5,4 +5,4 @@
 The author run the files with:
 * Pycharm 2021.2.1
 * Anaconda and Python 3.9 as interpreter
-* All code, comments and outputs are in the Jupyter Notebook
+* **All code, comments and outputs are in the Jupyter Notebook**, i.e., the `Data_Analysis.ipynb` file
